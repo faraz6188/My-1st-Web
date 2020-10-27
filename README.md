@@ -1,2 +1,2 @@
 # Demo website
-It's just a demo website with some minor chnages
+It's just a demo website with some minor changes
